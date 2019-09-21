@@ -152,6 +152,7 @@
 				});
 
 			// Hide panel on body click/tap.
+
 				$body.on('click touchend', function(event) {
 
 					// >large? Bail.

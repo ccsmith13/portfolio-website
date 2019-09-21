@@ -57,5 +57,11 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 ## Stretch
 
-- [ ] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
-- [ ] Download another template and see if you can get the CSS preprocessor working on the project
+- [X] Study the JavaScript used in your template and see if you can tweak any of the behavior to see how it works
+
+Tried commenting out various lines of the JS file to see the effect it had on the page.
+Seems to mostly affect animations relating to scrolling or the menu bar.
+
+- [?] Download another template and see if you can get the CSS preprocessor working on the project
+
+Watched tutorials on SASS which looks like the CSS preprocessor which is being used for the template that I chose. Seems like it already is working on the project.
